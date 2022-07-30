@@ -1,4 +1,4 @@
-package me.btelnyy.reversefriendlyfire.service;
+package me.btelnyy.mcexampleplugin.service;
 
 import java.util.Arrays;
 
